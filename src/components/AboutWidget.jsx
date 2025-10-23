@@ -44,7 +44,7 @@ const AboutWidget = () => {
       </div>
 
       {/* Content */}
-      <div className="overflow-y-auto max-h-[160px] pr-2 custom-scrollbar">
+      <div className="overflow-y-auto max-h-[175px] pr-3 custom-scrollbar">
         <p className="text-[#969696] text-[15px] leading-[1.6] font-normal">
           {content[activeTab]}
         </p>
