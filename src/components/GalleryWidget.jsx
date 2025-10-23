@@ -93,7 +93,7 @@ const GalleryWidget = () => {
       </div>
 
       {/* Divider */}
-      <div className="h-[1px] bg-gradient-to-r from-transparent via-[#96BDC6]/20 to-transparent mb-5"></div>
+      <div className="h-[4px] bg-gradient-to-r from-transparent via-[#5B5F66]/30 to-transparent mb-5 rounded-full shadow-sm"></div>
 
       {/* Image Grid */}
       <div className="grid grid-cols-3 gap-3 overflow-hidden">
